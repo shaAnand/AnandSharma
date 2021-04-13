@@ -2,7 +2,7 @@
 - 👀 I’m interested in Consumer Payments, Blockchain, Artificial Intelligence  
 - 🌱 I’m currently learning Blockchain and Consumer Privacy 
 
-- 📫 How to reach me anandsharma@gmx.com or Sharma.anand.sa@gmail.com 
+- 📫 How to reach me anandsharma@gmx.com or Sharma.anand.sa@gmail.com or Follow me at @Sharma_Anand_
 
 <!---
 shaAnand/shaAnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
